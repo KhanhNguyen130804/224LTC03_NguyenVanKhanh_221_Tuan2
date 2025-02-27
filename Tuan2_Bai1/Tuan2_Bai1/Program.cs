@@ -10,6 +10,7 @@ namespace Tuan2_Bai1
     {
         static void Main(string[] args)
         {
+            //im here now
         }
     }
 }
